@@ -18,5 +18,5 @@ This repository provides practical examples of semantic HTML usage, supporting t
 - Helps SEO (search engines know the meaning of your content).
 - Makes your code cleaner and easier to maintain.
 
-Read the full blog post here: https://dev.to/jeremiah-dev341/mastering-semantic-html-243k
+Read the full blog post here: [Mastering Semantic HTML] https://dev.to/jeremiah-dev341/mastering-semantic-html-243k
 
